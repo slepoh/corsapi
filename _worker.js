@@ -455,7 +455,7 @@ async function handleHomePage(currentOrigin, defaultPrefix) {
 
     <div class="footer">
       <p>
-        项目地址：<a href="https://github.com/SzeMeng76/CORSAPI" target="_blank">SzeMeng76/CORSAPI</a><br>
+        项目地址：<a href="https://github.com/slepoh/CORSAPI" target="_blank">CORSAPI</a><br>
         <small>基于 <a href="https://github.com/hafrey1/LunaTV-config" target="_blank">hafrey1/LunaTV-config</a> 二次开发</small>
       </p>
       <p>Powered by Cloudflare Workers</p>
